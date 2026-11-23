@@ -31,11 +31,11 @@
   </tr>
   <tr>
     <td><img src="media/03-forest.jpg" alt="숲에서 글자 줍기"></td>
-    <td><img src="media/04-pond.jpg" alt="물개로 변신해 물 건너기"></td>
+    <td><img src="media/04-axe.jpg" alt="도끼를 들고 나무 베기"></td>
   </tr>
   <tr>
     <td align="center">숲에서 흩어진 글자 줍기</td>
-    <td align="center">물개로 변신해 물 건너기</td>
+    <td align="center">도끼를 들고 나무 베기</td>
   </tr>
   <tr>
     <td><img src="media/05-stable.jpg" alt="갈고리를 던져 마구간으로"></td>
