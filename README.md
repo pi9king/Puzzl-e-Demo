@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pi9king/Puzzl-e-Demo/releases/download/v0.1.0-demo/PuzzleDemo-Win64.zip"><img src="https://img.shields.io/badge/Windows%20%EB%8D%B0%EB%AA%A8%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-v0.1.0%20%C2%B7%20357MB-8b5a2b?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 데모 다운로드"></a>
+  <a href="https://github.com/pi9king/Puzzl-e-Demo/releases/download/v0.2.0-demo/PuzzleDemo-Win64.zip"><img src="https://img.shields.io/badge/Windows%20%EB%8D%B0%EB%AA%A8%20%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-v0.2.0%20%C2%B7%20378MB-8b5a2b?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 데모 다운로드"></a>
 </p>
 
 ## 게임 소개
